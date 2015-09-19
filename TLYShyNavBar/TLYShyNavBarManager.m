@@ -14,7 +14,7 @@
 #import "NSObject+TLYSwizzlingHelpers.h"
 #import "TLYShyTableView.h"
 #import <objc/runtime.h>
-
+#import <UIKit/UIKit.h>
 
 #pragma mark - Helper functions
 
